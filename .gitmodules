@@ -1,3 +1,6 @@
 [submodule "OneOfTests/lib/forge-std"]
 	path = OneOfTests/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "test/lib/forge-std"]
+	path = test/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
