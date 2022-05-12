@@ -2,7 +2,7 @@
 pragma solidity 0.8.13;
 
 import "../lib/forge-std/src/Vm.sol";
-import "ds-test/test.sol";
+import "../lib/forge-std/lib/ds-test/src/test.sol";
 import "../src/Button.sol";
 
 contract ContractTest is DSTest {
